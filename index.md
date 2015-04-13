@@ -1,6 +1,1 @@
----
-layout: default
-title: Página de ejemplo
----
-Página de ejemplo
-
+file:///C:/Users/Angelica/AppData/Local/Temp/MarkdownPadPreview.html
